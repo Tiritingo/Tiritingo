@@ -3,7 +3,7 @@
 ### Lawyer transitioning into Tech | Data Enthusiast 📊 | Future Data Scientist
 
 ---
-![Imagen](./IMAGES/DSN.jpg)
+![Banner](./IMAGES/DSN.jpg)
 ---
 
 ### Skills
