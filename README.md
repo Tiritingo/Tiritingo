@@ -1,6 +1,6 @@
 # Hi there!!!  Welcome to Gerardo Aguilar's GitHub.
 
-### Lawyer transitioning into Tech | Data Enthusiast 📊 | Future Data Scientist
+### Lawyer transitioning into Tech | Data Enthusiast 📊 | Business Intelligence specialist
 
 ---
 ![Banner](./IMAGES/DSN.jpg)
